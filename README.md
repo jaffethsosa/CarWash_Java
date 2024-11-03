@@ -20,11 +20,3 @@ optimizando el flujo de trabajo y reduciendo los tiempos de espera.
 
 Ubicacion del cliente: El usuario puede visualizar su ubicacion dentro de las instalaciones del Car Wash, 
 proporcionando una mejor experiencia al cliente.
-
-Instalacion
-
-Requisitos previos
-
-Java Development Kit (JDK)
-NetBeans IDE para ejecutar el proyecto.
-PostgreSQL como gestor de base de datos.
