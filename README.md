@@ -12,11 +12,11 @@ lo que mejora la organizacion y reduce el tiempo de espera.
 - Base de datos: PostgreSQL
 
 ## Caracteristicas principales
-Registro de usuarios: Los clientes pueden crear su propia cuenta,
-lo que les permite acceder a servicios personalizados dentro del Car Wash.
+- Registro de usuarios: Los clientes pueden crear su propia cuenta,
+  lo que les permite acceder a servicios personalizados dentro del Car Wash.
 
-Asignacion de cubiculos: Una vez registrado, el sistema muestra en que cubiculo debe dirigirse el cliente, 
-optimizando el flujo de trabajo y reduciendo los tiempos de espera.
+- Asignacion de cubiculos: Una vez registrado, el sistema muestra en que cubiculo debe dirigirse el cliente, 
+  optimizando el flujo de trabajo y reduciendo los tiempos de espera.
 
-Ubicacion del cliente: El usuario puede visualizar su ubicacion dentro de las instalaciones del Car Wash, 
-proporcionando una mejor experiencia al cliente.
+- Ubicacion del cliente: El usuario puede visualizar su ubicacion dentro de las instalaciones del Car Wash, 
+  proporcionando una mejor experiencia al cliente.
