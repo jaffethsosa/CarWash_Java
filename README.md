@@ -7,9 +7,9 @@ lo que mejora la organizacion y reduce el tiempo de espera.
 
 ## Tecnologias utilizadas
 
-Lenguaje de programacion: Java
-IDE: NetBeans
-Base de datos: PostgreSQL
+- Lenguaje de programacion: Java
+- IDE: NetBeans
+- Base de datos: PostgreSQL
 
 ## Caracteristicas principales
 Registro de usuarios: Los clientes pueden crear su propia cuenta,
